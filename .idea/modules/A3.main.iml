@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="A3:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="net.codebot" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.20/dab8089bca6ac0e394c37281ea8cff2f99acd421/kotlin-stdlib-jdk8-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-media/17.0.2/5c6c84557bcd0016b5784d2b0cd8ae769e63d4ed/javafx-media-17.0.2-win.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17.0.2/5079f88d5345e988222c90a345ad682b7aaccad3/javafx-fxml-17.0.2-win.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.2/707f290bacde2738c0a7e1d0b4a8193002c29cf7/javafx-controls-17.0.2-win.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.2/f52640ea07a0d7fe2ac8b9f945ec58fa22ac1afd/javafx-controls-17.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.2/6f95886c8fed3e1b21370a199c3937846ef6b3cc/javafx-graphics-17.0.2-win.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.2/1eb7ce07e07ccc2fcb26103f07535e72069519d6/javafx-graphics-17.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.2/1bd6dc88b180a6239a5067320c2f0d7f3526e1d2/javafx-base-17.0.2-win.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.2/ca46f15a306175ac1513211e1d190a5baacd77cc/javafx-base-17.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.20/f8629f336bad4001c89e9cffa5ef3d4b5d0f5e22/kotlin-stdlib-jdk7-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.20/6cedc143badbb4f1c6b7f5a340b04edff1743208/kotlin-stdlib-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.20/27b4562b6713d70f458c6d7ea39aadacb8e6a92b/kotlin-stdlib-common-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="11" />
+            <stringArg name="moduleName" arg="A3" />
+            <stringArg name="apiVersion" arg="1.6" />
+            <stringArg name="languageVersion" arg="1.6" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths" />
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.20/3d6e1b15fb9db1455136c932ade7d9df298c9274/kotlin-scripting-jvm-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.6.20/c715651864e5e186405f60e034af3b65d0eebef/kotlin-scripting-common-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.20/6cedc143badbb4f1c6b7f5a340b04edff1743208/kotlin-stdlib-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.20/27b4562b6713d70f458c6d7ea39aadacb8e6a92b/kotlin-stdlib-common-1.6.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.20/a115c367e0fd9c8909293b208689afca0c88a6f1/kotlin-script-runtime-1.6.20.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-media:win:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-fxml:win:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:win:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:win:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:win:17.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+</module>
